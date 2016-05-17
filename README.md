@@ -14,3 +14,4 @@
     sw.start();
     ...  // Tb
     sec = sw.seconds(); // == Ta + Tb
+    sec = sw.seconds(); // == Ta + Tb
