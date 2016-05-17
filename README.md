@@ -5,7 +5,7 @@
     sw.start();
     ... // Ta
     double sec = sw.seconds(); // == Ta
-    
+
 
     sw.re_start();
     ... // Ta
